@@ -1,0 +1,37 @@
+{
+  "id": "aiclintrack-channel",
+  "title": "AIClinTrack tutorials",
+  "subtitle": "@AIClinTrack",
+  "description": "Video tutorials from the official AIClinTrack YouTube channel.",
+  "modules": [
+    {
+      "id": "mod-aiclintrack",
+      "title": "AIClinTrack channel",
+      "summary": "Public uploads from youtube.com/@AIClinTrack.",
+      "videos": [
+        {
+          "id": "yt-XCY1jv3gqvs",
+          "title": "Study Management Tutorial",
+          "description": "AIClinTrack walkthrough of study management in the CTMS.",
+          "duration": "",
+          "category": "AIClinTrack",
+          "tags": ["youtube", "AIClinTrack"],
+          "sourceType": "youtube",
+          "sourceUrlOrId": "XCY1jv3gqvs",
+          "thumbnailUrl": "https://i.ytimg.com/vi/XCY1jv3gqvs/hqdefault.jpg"
+        },
+        {
+          "id": "yt-o1Rw1q7nMSE",
+          "title": "Opportunities of Agentic AI in Clinical Trials",
+          "description": "From the AIClinTrack YouTube channel.",
+          "duration": "",
+          "category": "AIClinTrack",
+          "tags": ["youtube", "AIClinTrack"],
+          "sourceType": "youtube",
+          "sourceUrlOrId": "o1Rw1q7nMSE",
+          "thumbnailUrl": "https://i.ytimg.com/vi/o1Rw1q7nMSE/hqdefault.jpg"
+        }
+      ]
+    }
+  ]
+}
